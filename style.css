@@ -118,7 +118,6 @@ main h2 {
     justify-content: space-around;
     padding-block: 10rem;
     padding-inline: 1rem;
-    background-color: #2d3751;
 }
 
 #about h2 {
@@ -212,7 +211,7 @@ aside {
     padding: 1rem;
     margin-bottom: 3rem;
     background-color: #2d3751;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .project-wrap p {
@@ -390,10 +389,15 @@ aside {
     .project-wrap {
         flex-direction: column;
         justify-content: center;
+        align-items: center;
     }
 
     .project-wrap div {
+        width: 90%;
+        padding: 1rem;
+    }
+
+    .project-wrap img {
         width: 100%;
-        padding: 0;
     }
 }
