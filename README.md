@@ -1,7 +1,7 @@
 # Ujian-Akhir-Dicoding
-Tugas akhir dicoding kelas Belajar Pemrograman Dasar Web, membuat web portfolio sederhana menggunakan HTML & CSS
+Tugas akhir dicoding kelas Belajar ***Pemrograman Dasar Web***, membuat web portfolio sederhana menggunakan HTML & CSS
 
-PREVIEW
+**PREVIEW**
 
 ![alt text](image.png)
 
@@ -11,4 +11,4 @@ PREVIEW
 
 ![alt text](image-3.png)
 
-LINK => https://alfario207.github.io/Ujian-Akhir-Dicoding/
+**LINK =>** https://alfario207.github.io/Ujian-Akhir-Dicoding/
